@@ -2,11 +2,11 @@
   "description": "<->",
   "author": "<J-Eugênio>",
   "build": {
-    "appId": "<com.netotur_app>"
+    "appId": "<com.your_app>"
   },
   "main": "public/electron.js",
   "homepage": "./",
-  "name": "netotur-app",
+  "name": "your_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
